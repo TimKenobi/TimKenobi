@@ -70,15 +70,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="60" alt="git logo"  />
   <img width="12" />
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=TimKenobi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=TimKenobi&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-  
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="60" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/google/4285F4" height="60" alt="google logo"  />
@@ -91,3 +82,13 @@
 <img src="https://raw.githubusercontent.com/TimKenobi/TimKenobi/output/snake.svg" alt="Snake animation" />
 
 ###
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=TimKenobi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=TimKenobi&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+
+
