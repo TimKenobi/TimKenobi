@@ -88,8 +88,6 @@
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="60" alt="npm logo"  />
 </div>
 
-###
-
 <img src="https://raw.githubusercontent.com/TimKenobi/TimKenobi/output/snake.svg" alt="Snake animation" />
 
 ###
