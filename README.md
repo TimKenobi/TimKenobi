@@ -12,3 +12,6 @@
 <img src="https://raw.githubusercontent.com/TimKenobi/TimKenobi/output/snake.svg" alt="Snake animation" />
 
 ###
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-orange.svg)](https://coff.ee/timkenobi)
+
