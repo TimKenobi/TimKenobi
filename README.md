@@ -61,11 +61,11 @@ tools:
   security_integrations:
     - TruffleHog
     - Gitleaks
-    - Rapid7 InsightIDR
+    - Rapid7 Insight Platform
     - Webhooks
     - Jira
-    - Automation
 interests:
+  - Automation
   - domain_takeover_detection
   - subdomain_enumeration
   - dns_security_monitoring
