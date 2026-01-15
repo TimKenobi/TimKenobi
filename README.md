@@ -116,7 +116,7 @@ drwxr-xr-x  timkenobi staff  the_good_stuff/
 ```
 Want to collaborate on a security quest? Spot a vulnerability in the code?
 Or just want to discuss if the Force could derezz a program in Tron?
-I'll keep my Communicator Handy.
+I'll keep my communicator handy.
 ```
 
 <p align="center">
